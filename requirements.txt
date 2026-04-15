@@ -1,0 +1,10 @@
+python-telegram-bot
+moviepy
+pydub
+arabic-reshaper
+python-bidi
+requests
+numpy
+Pillow
+supabase
+flask
